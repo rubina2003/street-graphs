@@ -22,17 +22,6 @@ Purpose:
 
 This project was developed to provide a digital platform for photographers to present their work and reach a wider audience, while offering users a simple and engaging way to discover and buy photography online.
 
-Setup Instructions
-1. Clone the repository
-2. git clone https://github.com/rubina2003/street-graphs.git
-3. Move the project folder to your local server (e.g., XAMPP htdocs)
-4. Import the database
-5. Open phpMyAdmin
-6. Create a database
-7. Import the provided .sql file
-8. Configure database connection in the project (if needed)
-9. Run the project in your browser
-
 Notes:
 
 Designed with a focus on clean layout and easy navigation
